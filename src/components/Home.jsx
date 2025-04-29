@@ -1,6 +1,6 @@
 
 import React from 'react'
-import HomeImg from '../assets/homeimg.png'
+import HomeImg from '../assets/homeImg.png'
 import {motion} from 'framer-motion'
 
 const container = (delay) =>({
